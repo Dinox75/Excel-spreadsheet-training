@@ -1,13 +1,18 @@
-Descrição do Projeto
+# 📊 Excel Spreadsheet Training
 
-Este projeto consiste em um simulador de investimentos desenvolvido em Excel, criado como parte de um desafio da plataforma DIO (Digital Innovation One).
+Repositório criado para armazenar e documentar meus projetos em **Excel**, focados em:
 
-A planilha permite simular a distribuição de investimentos com base no perfil do investidor, utilizando percentuais pré-definidos para diferentes tipos de Fundos Imobiliários (FIIs), como papel, tijolo, híbridos e FOFs. O objetivo é auxiliar na visualização e organização da alocação de recursos de forma simples e didática.
+- Automação de planilhas  
+- Organização de dados  
+- Dashboards  
+- Aplicações práticas para trabalho e estudo  
 
-O projeto foi estruturado separando:
+Aqui concentro tudo o que desenvolvo em Excel para evitar arquivos soltos e manter um histórico de evolução.
 
-Área de configuração e simulação, onde o usuário insere dados como salário/aporte
+---
 
-Base de dados lógica, responsável pela definição dos perfis de investidor e suas respectivas distribuições percentuais
-
-Este simulador tem finalidade educacional, aplicando conceitos de organização de dados, lógica de negócios e análise financeira básica por meio do Excel.
+| Projeto                        | Descrição                                              | Técnicas                                                    |
+| ------------------------------ | ------------------------------------------------------ | ----------------------------------------------------------- |
+| Declaração de Imposto de Renda | Organização de dados do contribuinte, informes e notas | Validação de dados, tabelas auxiliares, organização modular |
+| ------------------------------ | ------------------------------------------------------ | ----------------------------------------------------------- |
+| Simul Invest                   | Simulador para projeção de patrimônio e renda passiva  | Fórmula FV, projeção financeira, cálculos percentuais, cenários dinâmicos |
